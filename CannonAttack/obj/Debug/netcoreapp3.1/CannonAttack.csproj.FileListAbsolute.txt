@@ -1,0 +1,13 @@
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\bin\Debug\netcoreapp3.1\CannonAttack.exe
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\bin\Debug\netcoreapp3.1\CannonAttack.deps.json
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\bin\Debug\netcoreapp3.1\CannonAttack.runtimeconfig.json
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\bin\Debug\netcoreapp3.1\CannonAttack.runtimeconfig.dev.json
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\bin\Debug\netcoreapp3.1\CannonAttack.dll
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\bin\Debug\netcoreapp3.1\CannonAttack.pdb
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.csprojAssemblyReference.cache
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.AssemblyInfoInputs.cache
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.AssemblyInfo.cs
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.csproj.CoreCompileInputs.cache
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.dll
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.pdb
+C:\Users\mollo\Documents\LIT\Software Quality Engineering\CannonAttack\obj\Debug\netcoreapp3.1\CannonAttack.genruntimeconfig.cache
